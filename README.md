@@ -6,4 +6,4 @@ Information about customers, including CreditScore, Age, Balance, is collected f
 
 After training the model repeatedly, the average accuracy was around 87%
 
-This is part of my learning process to master AI and deep learning. This is my first project applying my machine learning knowledge, and it was done with the help of an online course on Udemy.
+This is part of my learning process to master AI and deep learning. This is my first project applying my machine learning knowledge, and it was done with the help of the Deep Learning A-Z Udemy course.
